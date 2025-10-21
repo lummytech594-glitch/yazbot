@@ -2,7 +2,7 @@
 
  ---
 
-## 🧪 How to Test the Bot (For Client)
+## 🧪 How to Test the Bot
 
 1. **Clone the Repository**
    - Go to the GitHub page: [YazBot Repo](https://github.com/lummytech594-glitch/yazbot)
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧩 Notes for Client
+## 🧩 Notes you can also check
 - The bot connects to **Binance Testnet**, not the live exchange.
 - No real money is used — trades are purely simulated.
 - Make sure your `.env` file contains valid **Testnet** API keys.
@@ -51,6 +51,7 @@ pip install -r requirements.txt
 **Lummy Tech**  
 📧 Email: lummytech594@gmail.com  
 🌐 GitHub: [lummytech594-glitch](https://github.com/lummytech594-glitch)
+
 
 
 
